@@ -2,7 +2,7 @@
 
 > An InDesign script that applies primitive syntax highlighting, without language-specific syntax configs but rather based on generic tokens.
 
-![Using id-simple-syntax-highlighter](https://cdn.baltpeter.io/img/id-simple-syntax-highlighter-demo-hero.gif)
+![Using id-simple-syntax-highlighter](https://static.bn.al/img/id-simple-syntax-highlighter-demo-hero.gif)
 
 Code snippets on displays are usually shown using syntax highlighting to make reading and understanding them easier. Thus, it would make sense to apply the same treatment to code snippets in books and other print documents.  
 Unfortunately, Adobe InDesign doesn't come with such a feature.
